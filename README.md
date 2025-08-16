@@ -5,9 +5,23 @@ In ogni soluzione/versione di ogni scenario vengono stampati in output: tempo to
 
 # Chi è la migliore?
 
-5 test eseguiti per ogni versione di ogni scenario:
+5 test eseguiti per ogni versione di ogni scenario.
+
+Scenario 1:
 
 <img width="638" height="562" alt="image" src="https://github.com/user-attachments/assets/e4801cbd-f46f-4f26-acfb-5bef4a7f9d84" />
+
+<img width="647" height="227" alt="image" src="https://github.com/user-attachments/assets/041f99a0-b753-4a97-be66-51f278bd4476" />
+
+Scenario 2:
+
+<img width="635" height="561" alt="image" src="https://github.com/user-attachments/assets/806b089b-7b03-477d-8357-ea611c398748" />
+
+<img width="628" height="216" alt="image" src="https://github.com/user-attachments/assets/73526e10-9b5d-436f-a987-6d2ec2b99f3e" />
+
+Scenario 3:
+
+<img width="627" height="517" alt="image" src="https://github.com/user-attachments/assets/bdb5b56c-d976-408f-8cd3-71b35ae0d8d3" />
 
 
 --- English ---
